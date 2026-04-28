@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# venv
+.venv/
+venv/
+
+# data
+*.h5
+*.parquet
+*.csv
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
